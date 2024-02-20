@@ -18,7 +18,7 @@ Examples of data generated in the House-GAN++ application are located in the SVG
 The converted data using the converter are located in the JSON folder.
 
 **Operation of the House-GAN++ interface:** <br /><br />
-![image](https://github.com/Al27Ms/House-GAN-Addon/assets/102626627/b3f39556-2da5-46b5-a278-b6d33a5a4af4)
+![image](https://github.com/Al27Ms/House-GAN-Addon/assets/102626627/819c456f-ad92-4bc1-91c9-6578857bbde2)
 
 **Addon interface:** <br /><br />
 ![image](https://github.com/Al27Ms/House-GAN-Addon/assets/102626627/414135bd-7684-462a-b7f7-e573ee3b8ba9)
